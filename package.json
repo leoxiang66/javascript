@@ -6,6 +6,6 @@
   "author": "Tao Xiang <46348901+leoxiang66@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "functional-data-structure": "^0.9.0"
+    "functional-data-structure": "^0.10.0"
   }
 }
